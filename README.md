@@ -1,213 +1,114 @@
+<div align="center">
+
 # Hi, I'm Oma Ram 👋
 
-### B.S. Applied AI & Data Science @ IIT Jodhpur | AI/ML • GenAI • LLMs • RAG • Agentic AI
+**B.S. Applied AI & Data Science @ IIT Jodhpur**
+*Machine Learning | Data Science | Generative AI | Agentic AI*
 
-I’m an Applied AI & Data Science student at **IIT Jodhpur** with a strong curiosity for
-understanding how intelligent systems work and how they can be applied to meaningful
-real-world problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oma-ram-choudhary-07532024a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Om123Chodhary)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:omaramchoudhary418@gmail.com)
 
-I enjoy **learning → building → experimenting → understanding → improving**, with a
-particular interest in AI systems that turn data and ideas into practical solutions.
-
----
-
-## About Me
-
-I'm currently pursuing a **B.S. in Applied AI and Data Science at IIT Jodhpur**.
-
-My interests span from foundational machine learning and deep learning to modern
-AI systems involving **Generative AI, LLMs, RAG, and Agentic AI**.
-
-What interests me most is not just using AI tools, but understanding the ideas behind
-them and experimenting with how they can be used to solve real problems.
-
-I'm continuously working on improving my foundations, building projects, exploring
-new technologies, and learning from both successful and failed experiments.
-
-> **Curious learner → Builder → Problem Solver → AI Engineer / Researcher**
+</div>
 
 ---
 
-## What I'm Exploring
+### 🧠 About Me
+I am an Applied AI & Data Science student at **IIT Jodhpur** with a strong foundation in mathematics, statistics, and computer science.My interests  **Machine Learning, Generative AI, LLM engineering, and autonomous AI Agents**. I enjoy exploring how AI systems work internally and translating concepts into practical applications.
+ I learn by **building from scratch, breaking things, and understanding the underlying architecture.**
 
-### Machine Learning & Deep Learning
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Model training & evaluation
-- Feature engineering
-- Experimentation & analysis
+My core focus lies in **Machine Learning and Data Science**, but my curiosity drives me toward building **Production-Grade AI Systems**—moving beyond basic models to autonomous, multi-step reasoning agents that can search, verify, and execute tasks in the real world.
 
-### Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Embeddings
-- Retrieval-Augmented Generation (RAG)
-- Vector search
-- AI application development
-
-### Agentic AI
-- AI Agents
-- Tool-using systems
-- Agentic workflows
-- Multi-step reasoning systems
-- LLM-powered automation
-
-### Data Science
-- Data Analysis
-- Data preprocessing
-- Exploratory Data Analysis
-- Statistical thinking
-- Data-driven problem solving
-
-### Applied AI
-- Natural Language Processing
-- Computer Vision
-- Intelligent automation
-- AI-powered real-world applications
+*   🔭 I’m currently building **AI Agents** and exploring **Advanced RAG pipelines**.
+*   🧠 Deeply interested in **Model Training, State Management, and AI Engineering**.
+*   🚀 I believe in the philosophy: **Learn → Build → Break → Understand → Improve → Repeat**.
 
 ---
 
-## Currently Learning
+### 🚀 Featured Projects
 
-I'm currently going deeper into:
+#### 1. [Autonomous AI Research Agent](https://github.com/Om123Chodhary/Autonomous-AI-Research-Agent)
+*A production-ready, full-stack AI agent that autonomously plans, researches, verifies, and generates structured reports.*
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=flat-square&logo=render)](https://autonomous-ai-research-agent-r3s9.onrender.com/)
+*   **The Challenge:** LLMs hallucinate, get lazy in loops, and fail on rate limits.
+*   **The Solution:** Built a custom agent loop featuring **State-Machine Enforcement** (forces fact verification), **Real-time SSE Streaming**, and a **Multi-Key API Fallback System**.
+*   **Stack:** `FastAPI` `Groq` `Docker` `Vanilla JS`
 
-- Advanced Machine Learning
-- Deep Learning & neural network architectures
-- LLM architectures and practical applications
-- RAG system design and evaluation
-- AI Agents and agentic workflows
-- AI Engineering & MLOps
-- Research-oriented AI development
-- Building reliable AI systems rather than just prototypes
+#### 2. 🚧 ML / Data Science Project *(Coming Soon)*
+*   *Predictive Modeling / EDA / Data-driven problem solving.*
+*   *(This space is reserved for upcoming ML and Data Science work.)*
 
----
-
-## What I Build
-
-I like working on projects where technology has a **clear problem to solve**.
-
-My projects and experiments focus on:
-
-- Real-world problem solving
-- AI-powered applications
-- Data-driven solutions
-- Intelligent automation
-- LLM & RAG applications
-- Agentic AI workflows
-- Machine Learning systems
-- Practical AI experimentation
-
-### Featured Projects
-
-> More projects will be added as I build, experiment, and learn.
-
-| Project | Problem | Approach | Impact |
-|---|---|---|---|
-| 🚧 Coming Soon | Real-world problem | AI / ML based solution | To be evaluated |
-| 🚧 Coming Soon | Data-driven problem | Data Science / ML | To be evaluated |
-| 🚧 Coming Soon | AI application | GenAI / LLM / RAG | To be evaluated |
+#### 3. 🚧 Advanced RAG / NLP Project *(Coming Soon)*
+*   *Vector databases, Hybrid Search, and Document Intelligence.*
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack & Tools
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-### Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+### 📊 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-### Generative AI
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat)
-![Embeddings](https://img.shields.io/badge/Embeddings-5C6BC0?style=flat)
-![AI Agents](https://img.shields.io/badge/AI_Agents-00897B?style=flat)
-
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-> **Note:** My stack is continuously evolving. Some technologies are areas I'm
-> actively learning and experimenting with rather than claiming expert-level mastery.
-
----
-
-## Research & Open Source
-
-I'm interested in exploring the intersection of **AI research and practical engineering**.
-
-Areas I'm particularly interested in:
-
-- Reading and understanding AI/ML research papers
-- Reproducing interesting research ideas
-- Experimenting with new AI techniques
-- Contributing to open-source projects
-- Building reproducible experiments
-- Collaborating with developers and researchers
-- Exploring research problems with real-world applications
-
-I'm especially interested in opportunities where I can **learn from experienced
-engineers/researchers while contributing meaningful work**.
-
----
-
-## My Learning Philosophy
-
-I don't want to learn technology only by collecting certificates or memorizing APIs.
-
-My preferred approach is:
-
-**Learn → Build → Break → Understand → Improve → Repeat**
-
-Building something, discovering why it fails, and understanding the underlying concept
-is one of the ways I learn best.
-
----
-
-## GitHub Activity
-
-My GitHub is where I document my learning journey through:
-
-- Projects
-- Experiments
-- Implementations
-- Research explorations
-- Open-source contributions
-- Technical notes
-
-<!-- GitHub statistics can be added later when they provide meaningful signal. -->
-
----
-
-## Let's Connect
-
-I'm always interested in connecting with people working on **AI, Data Science,
-Machine Learning, research, open source, and interesting real-world problems**.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/oma-ram-choudhary-07532024a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:omaramchoudhary418@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+### 🤖 Generative AI & Agentic Engineering
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=lightning&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=json&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG-4A154B?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG"/>
 </p>
 
 ---
 
-### Building with curiosity. Learning through experimentation. Solving problems with AI.
+### 📈 Currently Exploring
+*   **Deep Learning:** Neural network architectures and model optimization.
+*   **AI Engineering:** Deployment, Observability, and MLOps.
+*   **Advanced RAG:** Hybrid search, Re-ranking, and GraphRAG.
+*   **Research:** Reading and reproducing impactful AI/ML research papers.
 
-<!--
-Profile README maintained by Oma Ram.
--->
+---
+
+### 💡 My Learning Philosophy
+I don't want to just be a consumer of AI APIs. I want to understand *how* the magic works.
+That's why I built an AI Agent from scratch before using heavy frameworks. Understanding the core mechanics—math, routing, state, and memory—is what makes a great AI Engineer.
+
+---
+
+<div align="center">
+  <i>"Building with curiosity. Learning through experimentation. Solving problems with AI."</i>
+</div>
