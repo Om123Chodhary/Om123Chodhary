@@ -34,11 +34,15 @@ My core focus lies in **Machine Learning and Data Science**, but my curiosity dr
 *   **The Solution:** Built a custom agent loop featuring **State-Machine Enforcement** (forces fact verification), **Real-time SSE Streaming**, and a **Multi-Key API Fallback System**.
 *   **Stack:** `FastAPI` `Groq` `Docker` `Vanilla JS`
 
-#### 2. 🚧 ML / Data Science Project *(Coming Soon)*
+#### 2. [22-Day Agentic AI Engineering Journey](https://github.com/Om123Chodhary/Agentic-AI-Engineering-)
+*A comprehensive repository documenting my 22-day sprint from building manual AI agents to deploying production-ready systems.*
+*   **What's Inside:** Daily code implementations and detailed READMEs covering MCP (Model Context Protocol), Advanced RAG (ChromaDB, Re-ranking), LangGraph, CrewAI, and LangChain.
+*   **Architecture Focus:** Mastered manual state machines, API fallbacks, session isolation, and Docker containerization.
+#### 3. 🚧 ML / Data Science Project *(Coming Soon)*
 *   *Predictive Modeling / EDA / Data-driven problem solving.*
 *   *(This space is reserved for upcoming ML and Data Science work.)*
 
-#### 3. 🚧 Advanced RAG / NLP Project *(Coming Soon)*
+#### 4. 🚧 Advanced RAG / NLP Project *(Coming Soon)*
 *   *Vector databases, Hybrid Search, and Document Intelligence.*
 
 ---
